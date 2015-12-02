@@ -1,0 +1,7 @@
+[package]
+name = "piston-tutorial"
+version = "0.1.0"
+authors = ["SwiftFalcn"]
+
+[dependencies]
+piston_window = "0.27.0"
